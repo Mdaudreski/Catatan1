@@ -84,7 +84,7 @@
 
 ## Hasil
 
-![](Asettt/remedial1.png)
+![](AsetRemedial/Remedial1.png)
 
 ## Analisis
 1. `<!DOCTYPE html>`: Mendefinisikan jenis dokumen HTML yang digunakan, dalam hal ini HTML versi terbaru.
@@ -240,7 +240,7 @@
 </html>
 ```
 
-![](Asettt/remedial3.png)
+![](AsetRemedial/remedial3.png)
 
 ## Analisis
 1. `<!DOCTYPE html>`: Mendefinisikan jenis dokumen HTML yang digunakan, dalam hal ini HTML versi terbaru.
@@ -426,5 +426,5 @@ Atribut href: Menentukan alamat tujuan hyperlink.
 Teks di antara tag <`a> dan </a`>: Teks yang akan ditampilkan sebagai hyperlink
 
 ## Hasil
-![](Asettt/remedial2.png)
+![](AsetRemedial/remedial2.png)
 
