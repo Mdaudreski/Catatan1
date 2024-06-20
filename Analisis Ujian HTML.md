@@ -61,7 +61,7 @@
 ```
 
 ### Hasil
-![gambar](AsetRemedial/Remedial1.png)
+![gambar](   medial/Remedial1.png)
 
 ### Analisis
 
